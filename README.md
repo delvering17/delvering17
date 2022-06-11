@@ -13,11 +13,13 @@
 </div>
 
 # Blog
+
 <div> 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=delvering17&color=dark)](https://github.com/delvering17/velog-readme-stats)
 </div>
 
-# ---
+---
+
 <div>
 ![delvering17's GitHub stats](https://github-readme-stats.vercel.app/api?username=delvering17&theme=dark&show_icons=true)
 
