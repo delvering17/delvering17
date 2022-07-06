@@ -15,7 +15,7 @@
 
 <div>  
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=delvering17)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole)](https://github.com/eungyeole/velog-readme-stats)
  
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=delvering17)](https://velog.io/@delvering17) 
