@@ -38,9 +38,9 @@
 
 <div>
  
-![delvering17's GitHub stats](https://github-readme-stats.vercel.app/api?username=delvering17&theme=dark&show_icons=true)
+<!-- ![delvering17's GitHub stats](https://github-readme-stats.vercel.app/api?username=delvering17&theme=dark&show_icons=true)
 
-[![delvering17's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delvering17&show_icons=true&hide_border=true&title_color=dark&icon_color=004386&layout=compact)](https://github.com/delvering17)
+[![delvering17's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delvering17&show_icons=true&hide_border=true&title_color=dark&icon_color=004386&layout=compact)](https://github.com/delvering17) -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=delvering17)](https://github.com/ryo-ma/github-profile-trophy)
